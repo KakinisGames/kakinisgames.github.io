@@ -1,0 +1,1 @@
+alert("Veuillez cliquez sur ok pour passez la vérifications.")
